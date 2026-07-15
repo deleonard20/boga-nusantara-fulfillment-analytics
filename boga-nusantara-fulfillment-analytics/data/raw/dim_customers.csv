@@ -1,0 +1,90 @@
+customer_id,customer_name,customer_contact,customer_city,customer_region,customer_postal_code,customer_country
+ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,,12209,Germany
+ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,MÃ©xico D.F.,,5021,Mexico
+ANTON,Antonio Moreno TaquerÃ­a,Antonio Moreno,MÃ©xico D.F.,,5023,Mexico
+AROUT,Around the Horn,Thomas Hardy,London,,WA1 1DP,UK
+BERGS,Berglunds snabbkÃ¶p,Christina Berglund,LuleÃ¥,,S-958 22,Sweden
+BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,,68306,Germany
+BLONP,Blondesddsl pÃ¨re et fils,FrÃ©dÃ©rique Citeaux,Strasbourg,,67000,France
+BOLID,BÃ³lido Comidas preparadas,MartÃ­n Sommer,Madrid,,28023,Spain
+BONAP,Bon app',Laurence Lebihan,Marseille,,13008,France
+BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,BC,T2F 8M4,Canada
+BSBEV,B's Beverages,Victoria Ashworth,London,,EC2 5NT,UK
+CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,,1010,Argentina
+CENTC,Centro comercial Moctezuma,Francisco Chang,MÃ©xico D.F.,,5022,Mexico
+CHOPS,Chop-suey Chinese,Yang Wang,Bern,,3012,Switzerland
+COMMI,ComÃ©rcio Mineiro,Pedro Afonso,Sao Paulo,SP,05432-043,Brazil
+CONSH,Consolidated Holdings,Elizabeth Brown,London,,WX1 6LT,UK
+DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,,52066,Germany
+DUMON,Du monde entier,Janine Labrune,Nantes,,44000,France
+EASTC,Eastern Connection,Ann Devon,London,,WX3 6FW,UK
+ERNSH,Ernst Handel,Roland Mendel,Graz,,8010,Austria
+FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,SP,05442-030,Brazil
+FOLIG,Folies gourmandes,Martine RancÃ©,Lille,,59000,France
+FOLKO,Folk och fÃ¤ HB,Maria Larsson,BrÃ¤cke,,S-844 67,Sweden
+FRANK,Frankenversand,Peter Franken,MÃ¼nchen,,80805,Germany
+FRANR,France restauration,Carine Schmitt,Nantes,,44000,France
+FRANS,Franchi S.p.A.,Paolo Accorti,Torino,,10100,Italy
+FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,,1675,Portugal
+GALED,GalerÃ­a del gastrÃ³nomo,Eduardo Saavedra,Barcelona,,8022,Spain
+GODOS,Godos Cocina TÃ­pica,JosÃ© Pedro Freyre,Sevilla,,41101,Spain
+GOURL,Gourmet Lanchonetes,AndrÃ© Fonseca,Campinas,SP,04876-786,Brazil
+GREAL,Great Lakes Food Market,Howard Snyder,Eugene,OR,97403,USA
+GROSR,GROSELLA-Restaurante,Manuel Pereira,Caracas,DF,1081,Venezuela
+HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,RJ,05454-876,Brazil
+HILAA,HILARION-Abastos,Carlos HernÃ¡ndez,San CristÃ³bal,TÃ¡chira,5022,Venezuela
+HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,OR,97827,USA
+HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Co. Cork,,Ireland
+ISLAT,Island Trading,Helen Bennett,Cowes,Isle of Wight,PO31 7PJ,UK
+KOENE,KÃ¶niglich Essen,Philip Cramer,Brandenburg,,14776,Germany
+LACOR,La corne d'abondance,Daniel Tonini,Versailles,,78000,France
+LAMAI,La maison d'Asie,Annette Roulet,Toulouse,,31000,France
+LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Vancouver,BC,V3F 2K1,Canada
+LAZYK,Lazy K Kountry Store,John Steel,Walla Walla,WA,99362,USA
+LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,,60528,Germany
+LETSS,Let's Stop N Shop,Jaime Yorres,San Francisco,CA,94117,USA
+LILAS,LILA-Supermercado,Carlos GonzÃ¡lez,Barquisimeto,Lara,3508,Venezuela
+LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Nueva Esparta,4980,Venezuela
+LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,OR,97219,USA
+MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,,24100,Italy
+MAISD,Maison Dewey,Catherine Dewey,Bruxelles,,B-1180,Belgium
+MEREP,MÃ¨re Paillarde,Jean FresniÃ¨re,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,,4179,Germany
+NORTS,North/South,Simon Crowther,London,,SW7 1RZ,UK
+OCEAN,OcÃ©ano AtlÃ¡ntico Ltda.,Yvonne Moncada,Buenos Aires,,1010,Argentina
+OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,AK,99508,USA
+OTTIK,Ottilies KÃ¤seladen,Henriette Pfalzheim,KÃ¶ln,,50739,Germany
+PERIC,Pericles Comidas clÃ¡sicas,Guillermo FernÃ¡ndez,MÃ©xico D.F.,,5033,Mexico
+PICCO,Piccolo und mehr,Georg Pipps,Salzburg,,5020,Austria
+PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,,1756,Portugal
+QUEDE,Que DelÃ­cia,Bernardo Batista,Rio de Janeiro,RJ,02389-673,Brazil
+QUEEN,Queen Cozinha,LÃºcia Carvalho,Sao Paulo,SP,05487-020,Brazil
+QUICK,QUICK-Stop,Horst Kloss,Cunewalde,,1307,Germany
+RANCH,Rancho grande,Sergio GutiÃ©rrez,Buenos Aires,,1010,Argentina
+RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,NM,87110,USA
+REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,,42100,Italy
+RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,RJ,02389-890,Brazil
+RICSU,Richter Supermarkt,Michael Holz,GenÃ¨ve,,1203,Switzerland
+ROMEY,Romero y tomillo,Alejandra Camino,Madrid,,28001,Spain
+SANTG,SantÃ© Gourmet,Jonas Bergulfsen,Stavern,,4110,Norway
+SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,ID,83720,USA
+SEVES,Seven Seas Imports,Hari Kumar,London,,OX15 4NB,UK
+SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,,1734,Denmark
+SPECD,SpÃ©cialitÃ©s du monde,Dominique Perrier,Paris,,75016,France
+SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,WY,82520,USA
+SUPRD,SuprÃªmes dÃ©lices,Pascale Cartrain,Charleroi,,B-6000,Belgium
+THEBI,The Big Cheese,Liz Nixon,Portland,OR,97201,USA
+THECR,The Cracker Box,Liu Wong,Butte,MT,59801,USA
+TOMSP,Toms SpezialitÃ¤ten,Karin Josephs,MÃ¼nster,,44087,Germany
+TORTU,Tortuga Restaurante,Miguel Angel Paolino,MÃ©xico D.F.,,5033,Mexico
+TRADH,TradiÃ§Ã£o Hipermercados,Anabela Domingues,Sao Paulo,SP,05634-030,Brazil
+TRAIH,Trail's Head Gourmet Provisioners,Helvetius Nagy,Kirkland,WA,98034,USA
+VAFFE,Vaffeljernet,Palle Ibsen,Ã…rhus,,8200,Denmark
+VICTE,Victuailles en stock,Mary Saveley,Lyon,,69004,France
+VINET,Vins et alcools Chevalier,Paul Henriot,Reims,,51100,France
+WANDK,Die Wandernde Kuh,Rita MÃ¼ller,Stuttgart,,70563,Germany
+WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,,90110,Finland
+WELLI,Wellington Importadora,Paula Parente,Resende,SP,08737-363,Brazil
+WHITC,White Clover Markets,Karl Jablonski,Seattle,WA,98128,USA
+WILMK,Wilman Kala,Matti Karttunen,Helsinki,,21240,Finland
+WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,,01-012,Poland

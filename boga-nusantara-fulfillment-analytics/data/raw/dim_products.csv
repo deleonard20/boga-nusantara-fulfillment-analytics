@@ -1,0 +1,78 @@
+product_id,product_name,category_id,catalog_unit_price,price_band
+1,Chai,1,18.0,10â€“20
+2,Chang,1,19.0,10â€“20
+3,Aniseed Syrup,2,10.0,10â€“20
+4,Chef Anton's Cajun Seasoning,2,22.0,20â€“50
+5,Chef Anton's Gumbo Mix,2,21.35,20â€“50
+6,Grandma's Boysenberry Spread,2,25.0,20â€“50
+7,Uncle Bob's Organic Dried Pears,7,30.0,20â€“50
+8,Northwoods Cranberry Sauce,2,40.0,20â€“50
+9,Mishi Kobe Niku,6,97.0,>50
+10,Ikura,8,31.0,20â€“50
+11,Queso Cabrales,4,21.0,20â€“50
+12,Queso Manchego La Pastora,4,38.0,20â€“50
+13,Konbu,8,6.0,<10
+14,Tofu,7,23.25,20â€“50
+15,Genen Shouyu,2,13.0,10â€“20
+16,Pavlova,3,17.45,10â€“20
+17,Alice Mutton,6,39.0,20â€“50
+18,Carnarvon Tigers,8,62.5,>50
+19,Teatime Chocolate Biscuits,3,9.2,<10
+20,Sir Rodney's Marmalade,3,81.0,>50
+21,Sir Rodney's Scones,3,10.0,10â€“20
+22,Gustaf's KnÃ¤ckebrÃ¶d,5,21.0,20â€“50
+23,TunnbrÃ¶d,5,9.0,<10
+24,GuaranÃ¡ FantÃ¡stica,1,4.5,<10
+25,NuNuCa NuÃŸ-Nougat-Creme,3,14.0,10â€“20
+26,GumbÃ¤r GummibÃ¤rchen,3,31.23,20â€“50
+27,Schoggi Schokolade,3,43.9,20â€“50
+28,RÃ¶ssle Sauerkraut,7,45.6,20â€“50
+29,ThÃ¼ringer Rostbratwurst,6,123.79,>50
+30,Nord-Ost Matjeshering,8,25.89,20â€“50
+31,Gorgonzola Telino,4,12.5,10â€“20
+32,Mascarpone Fabioli,4,32.0,20â€“50
+33,Geitost,4,2.5,<10
+34,Sasquatch Ale,1,14.0,10â€“20
+35,Steeleye Stout,1,18.0,10â€“20
+36,Inlagd Sill,8,19.0,10â€“20
+37,Gravad lax,8,26.0,20â€“50
+38,CÃ´te de Blaye,1,263.5,>50
+39,Chartreuse verte,1,18.0,10â€“20
+40,Boston Crab Meat,8,18.4,10â€“20
+41,Jack's New England Clam Chowder,8,9.65,<10
+42,Singaporean Hokkien Fried Mee,5,14.0,10â€“20
+43,Ipoh Coffee,1,46.0,20â€“50
+44,Gula Malacca,2,19.45,10â€“20
+45,Rogede sild,8,9.5,<10
+46,Spegesild,8,12.0,10â€“20
+47,Zaanse koeken,3,9.5,<10
+48,Chocolade,3,12.75,10â€“20
+49,Maxilaku,3,20.0,20â€“50
+50,Valkoinen suklaa,3,16.25,10â€“20
+51,Manjimup Dried Apples,7,53.0,>50
+52,Filo Mix,5,7.0,<10
+53,Perth Pasties,6,32.8,20â€“50
+54,TourtiÃ¨re,6,7.45,<10
+55,PÃ¢tÃ© chinois,6,24.0,20â€“50
+56,Gnocchi di nonna Alice,5,38.0,20â€“50
+57,Ravioli Angelo,5,19.5,10â€“20
+58,Escargots de Bourgogne,8,13.25,10â€“20
+59,Raclette Courdavault,4,55.0,>50
+60,Camembert Pierrot,4,34.0,20â€“50
+61,Sirop d'Ã©rable,2,28.5,20â€“50
+62,Tarte au sucre,3,49.3,20â€“50
+63,Vegie-spread,2,43.9,20â€“50
+64,Wimmers gute SemmelknÃ¶del,5,33.25,20â€“50
+65,Louisiana Fiery Hot Pepper Sauce,2,21.05,20â€“50
+66,Louisiana Hot Spiced Okra,2,17.0,10â€“20
+67,Laughing Lumberjack Lager,1,14.0,10â€“20
+68,Scottish Longbreads,3,12.5,10â€“20
+69,Gudbrandsdalsost,4,36.0,20â€“50
+70,Outback Lager,1,15.0,10â€“20
+71,Flotemysost,4,21.5,20â€“50
+72,Mozzarella di Giovanni,4,34.8,20â€“50
+73,RÃ¶d Kaviar,8,15.0,10â€“20
+74,Longlife Tofu,7,10.0,10â€“20
+75,RhÃ¶nbrÃ¤u Klosterbier,1,7.75,<10
+76,LakkalikÃ¶Ã¶ri,1,18.0,10â€“20
+77,Original Frankfurter grÃ¼ne SoÃŸe,2,13.0,10â€“20
